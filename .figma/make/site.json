@@ -1,0 +1,10 @@
+{
+  "description": "Engage in a humorous interactive quiz that playfully guides users through quirky questions and animations for lighthearted entertainment.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
