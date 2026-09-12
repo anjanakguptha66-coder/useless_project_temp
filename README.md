@@ -51,10 +51,10 @@ For Software:
 t 1 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2]<img width="1114" height="811" alt="front" src="source/s2.png" />
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3]<img width="1114" height="811" alt="front" src="source/s3.png" />
 *Add caption explaining what this shows*
 
 # Diagrams
