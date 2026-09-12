@@ -49,44 +49,37 @@ For Software:
 # Screenshots (Add at least 3)
 ![Screenshot1]<img width="1114" height="811" alt="front" src="https://github.com/user-attachments/assets/fbe361c9-89ea-494f-bfe8-63b0eeaad2d3" />
 t 1 here with proper name)
-*Add caption explaining what this shows*
+*Homepage of 404 
 
 ![Screenshot2]<img width="1114" height="811" alt="front" src="source/s2.png" />
-*Add caption explaining what this shows*
+*An interactive challenge
 
 ![Screenshot3]<img width="1114" height="811" alt="front" src="source/s3.png" />
-*Add caption explaining what this shows*
+*A fun interactive section of 404
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+!Workflow :OPEN 404
+           ↓
+      START BUTTON
+           ↓
+   INITIAL INTERACTION
+           ↓
+    FUNNY CHALLENGES
+           ↓
+ ANIMATIONS + CHARACTERS
+           ↓
+   FINAL SYSTEM ANALYSIS
+           ↓
+     PURPOSE NOT FOUND
+           ↓
+  A COMPLETELY USELESS
+       EXPERIMENT 😂
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
+Workflow of 404 web application
 ### Project Demo
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - [Name 1]: [Specific contributions]
