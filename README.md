@@ -2,53 +2,53 @@
 
 
 
-# [Project Name] 🎯
+# 404 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: BLUE JAYS
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Anjana K Guptha - AHALIA SCHOOL OF ENGINEERING AND TECHNOLOGY
+- Member 2: Sradhalakshmi S - AHALIA SCHOOL OF ENGINEERING AND TECHNOLOGY
 
 ### Project Description
-[2-3 lines about what your project does]
+404 is an interactive web experience that takes users through a series of unexpected challenges,animations,humorous interactions .The application creates a mysterious and entertaining experience where the actual purpose is revealed only at the end. 
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+peoples sometimes have a little too much free time and curiosity.404 addresses this extremely serious "problem" through a completely unnecessary but entertaining interactive experience.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+404 provides a series of funny challenges,animated interactions and unexpected events designed purely for entertainment and surprise. The final reveal turns the entire experience into a humorous twist.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Languages : HTML,CSS,Javascript
+- Framework : React
+- Libraries used : React
+- Tools used : Figma AI
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+-  Main components : COMPUTER 
+-  Specifications : Desktop with a modern web browser
+-  Tools required : keyboard,mouse,internet connection
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+No special installation required
 
 # Run
-[commands]
+open the project in a web browser
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1]<img width="1114" height="811" alt="front" src="https://github.com/user-attachments/assets/fbe361c9-89ea-494f-bfe8-63b0eeaad2d3" />
+t 1 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
